@@ -16,6 +16,7 @@ GNU General Pulbic License v3.0
 All codes in this repository are under this license. 
 
 Copyright (c) 2016 (Author's name?)
+
 This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
