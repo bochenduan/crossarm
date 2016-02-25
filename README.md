@@ -5,17 +5,20 @@
 Using United Energy's image data set, crossarms from power poles are classified into wood or steel. This enhances asset management maintenance as it can potentially reduce the time to look through the photos. 
 
 There are 2 major parts to this:
-* Image Pre-Processing - Componenet labelling is used to determine the usefulness of the picutre (whether a crossarm is present)
+* Image Pre-Processing - Component labelling is used to determine the usefulness of the picture (whether a crossarm is present)
 * Feature Based Approach - Flagging keypoints and using training model to predict whether the crossarm in an image is wood or steel
 
-Please read the respective documents for each approach to get a better understaind on how the script works.
+Please read the respective documents for each approach to get a better understand on how the script works. Comments are also present in the scripts to further improve understanding.
+
+##Code
+R
 
 ##License
-GNU General Pulbic License v3.0
+GNU General Public License v3.0
 
 All codes in this repository are under this license. 
 
-Copyright (c) 2016 (Author's name?)
+Copyright (c) 2016 Author's name?
 
 This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -30,7 +33,4 @@ This program is free software: you can redistribute it and/or modify
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-(Contact Details:)
-
-##Code
-R 
+Contact Details (if applicable):
